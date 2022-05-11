@@ -1,0 +1,27 @@
+.card {
+    margin: 0px 1rem;
+  }
+  body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+background-color: #cdcdcd;      }
+  .event {
+    opacity: 0.7;
+    pointer-events: none;
+  }
+  .blockquote-footer {
+    color: rgb(37, 37, 37);
+  }
+  .bottom{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+  .social i{
+      margin: 0px 6px;
+  }
+  i:hover{
+      cursor: pointer;
+  }
